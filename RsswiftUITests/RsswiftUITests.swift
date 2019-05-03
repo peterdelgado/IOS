@@ -1,11 +1,3 @@
-//
-//  RsswiftUITests.swift
-//  RsswiftUITests
-//
-//  Created by Arled Kola on 18/11/2016.
-//  Copyright © 2016 ArledKola. All rights reserved.
-//
-
 import XCTest
 
 class RsswiftUITests: XCTestCase {
