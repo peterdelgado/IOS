@@ -1,11 +1,3 @@
-//
-//  FeedItemViewController.swift
-//  Rsswift
-//
-//  Created by Arled Kola on 18/11/2016.
-//  Copyright © 2016 ArledKola. All rights reserved.
-//
-
 import UIKit
 
 class FeedItemViewController: UIViewController {
